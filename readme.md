@@ -286,16 +286,80 @@ However, local inference alone does not guarantee complete privacy. Frontend tel
 
 ## 🗺️ Future Improvements
 
-- [ ] Persistent daily task management.
-- [ ] Automatic daily check-in reminders.
-- [ ] Task completion tracking and progress summaries.
-- [ ] Long-term conversation memory.
-- [ ] Personalized mentoring based on previous progress.
-- [ ] Better Bangla and Banglish response consistency.
-- [ ] Improved handling of model thinking and empty responses.
-- [ ] Daily, weekly, and monthly productivity reports.
-- [ ] Configurable mentoring styles and goals.
-- [ ] Automated tests for backend and frontend integration.
+
+
+The long-term vision of Apnar Mentor AI is to become a proactive personal mentor that helps users plan their day, stay accountable, understand their working habits, and continuously improve through personalized conversations.
+
+### 📋 1. Personalized To-Do List & Daily Planning
+- Allow users to create daily, weekly, and long-term task lists.
+- Set deadlines, priorities, estimated durations, and task-specific goals.
+- Help users break large tasks into smaller, manageable steps.
+- Review unfinished tasks and help reschedule them realistically.
+
+### 📞 2. Proactive Voice Calls Before Tasks
+- Schedule reminders before a task's planned start time.
+- Contact the user through a configured calling channel, subject to user consent and available integrations.
+- Explain which task is coming up and ask whether the user is ready to begin.
+- Ask about blockers if the user is not ready.
+- Offer short, practical suggestions to help the user get started.
+
+### 🗣️ 3. Interactive Task Follow-Ups
+The mentor will ask questions throughout the task cycle rather than simply sending reminders.
+
+Examples:
+- "Did you start the task?"
+- "What's stopping you from completing it?"
+- "Which part have you finished so far?"
+- "How did you approach the task?"
+- "Did you complete it, or should we adjust the plan?"
+
+The next question will depend on the user's previous answer, helping conversations feel personal and relevant instead of repetitive.
+
+### 📊 4. Progress Analysis & Performance Insights
+- Identify which types of tasks the user completes consistently.
+- Analyze self-reported completion times, delays, and recurring obstacles.
+- Understand which planning methods appear to work best for the user.
+- Highlight progress, strengths, and areas that need improvement.
+- Provide daily, weekly, and monthly progress summaries.
+
+### 🧠 5. Adaptive Mentoring & Behavioral Learning
+- Learn from user-approved conversation history and progress records.
+- Adapt advice based on the user's goals, preferences, and previous experiences.
+- Ask why a task was completed successfully or left unfinished.
+- Recognize recurring patterns, such as procrastination or unrealistic scheduling, without making unsupported assumptions.
+- Recommend practical changes based on observed patterns and the user's feedback.
+
+### 🎯 6. Personalized Improvement Strategies
+- Explain what the user is doing well and why it may be working.
+- Suggest ways to improve planning, focus, consistency, and time management.
+- Compare planned work with reported outcomes.
+- Turn lessons from previous days into actionable plans for tomorrow.
+- Track whether suggested changes actually help over time.
+
+### 🔔 7. Smart Reminder & Accountability System
+- Send configurable reminders before deadlines and scheduled tasks.
+- Follow up when a task is overdue or marked incomplete.
+- Allow users to snooze, reschedule, or disable reminders.
+- Adjust reminder frequency to avoid unnecessary interruptions.
+- Respect quiet hours and user-selected contact preferences.
+
+### 📈 8. Long-Term Personal Growth Dashboard
+- Display task completion trends and goal progress.
+- Show recurring challenges and successful strategies.
+- Maintain a timeline of goals, achievements, and lessons learned.
+- Help users set realistic goals and review them regularly.
+
+### 🔐 9. Privacy, Consent & User Control
+- Give users control over stored personal information and conversation history.
+- Require explicit permission before initiating calls or external notifications.
+- Allow users to review, edit, and delete their task and progress records.
+- Clearly explain how personal data is used to generate recommendations.
+
+### 🌟 Ultimate Vision
+
+Apnar Mentor AI will evolve from a reactive chatbot into a proactive, adaptive accountability partner: one that reminds users before important tasks, asks thoughtful questions afterward, learns from their reported experiences, identifies what works and what does not, and helps them continuously improve.
+
+**The goal is not simply to track what users do, but to help them understand how they work, why certain approaches succeed, and how they can become better over time.**
 
 ---
 
